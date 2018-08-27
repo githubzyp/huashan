@@ -3,3 +3,4 @@
 令狐冲学了吸星大法 岳不群学了辟邪剑法
 pull test....
 this edit by yuebuqun
+use ssh way push
